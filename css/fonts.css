@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/poppins/Poppins-ExtraBold.eot');
+    src: url('../fonts/poppins/Poppins-ExtraBold.eot') format('embedded-opentype'),
+        url('../fonts/poppins/Poppins-ExtraBold.woff') format('woff2'),
+        url('../fonts/poppins/Poppins-ExtraBold.woff') format('woff'),
+        url('../fonts/poppins/Poppins-ExtraBold.ttf') format('truetype'),
+        url('../fonts/poppins/Poppins-ExtraBold.svg') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'semibold';
+    src: url('../fonts/semibold/Poppins-SemiBold.eot');
+    src: url('../fonts/semibold/Poppins-SemiBold.eot') format('embedded-opentype'),
+        url('../fonts/semibold/Poppins-SemiBold.woff2') format('woff2'),
+        url('../fonts/semibold/Poppins-SemiBold.woff') format('woff'),
+        url('../fonts/semibold/Poppins-SemiBold.ttf') format('truetype'),
+        url('../fonts/semibold/Poppins-SemiBold.svg') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'medium';
+    src: url('../fonts/medium/Poppins-Medium.eot');
+    src: url('../fonts/medium/Poppins-Medium.eot') format('embedded-opentype'),
+        url('../fonts/medium/Poppins-Medium.woff2') format('woff2'),
+        url('../fonts/medium/Poppins-Medium.woff') format('woff'),
+        url('../fonts/medium/Poppins-Medium.ttf') format('truetype'),
+        url('../fonts/medium/Poppins-Medium.svg') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
